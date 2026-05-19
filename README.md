@@ -1,3 +1,5 @@
+[![Acessar o site](https://img.shields.io/badge/Acessar%20o%20site-000?style=for-the-badge&logo=github&logoColor=white)](https://andre-rabreu.github.io/qr-code-generator)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
