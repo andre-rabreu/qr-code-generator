@@ -1,4 +1,4 @@
-[![Acessar o site](https://img.shields.io/badge/Acessar%20o%20site-000?style=for-the-badge&logo=github&logoColor=white)](https://andre-rabreu.github.io/qr-code-generator)
+<a href="https://andre-rabreu.github.io/qr-code-generator" target="_blank"><img src="https://img.shields.io/badge/Acessar%20o%20site-000?style=for-the-badge&logo=github&logoColor=white" alt="Acessar o site"></a>
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
